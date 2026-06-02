@@ -5,19 +5,7 @@ This projects dives into what happens when a user enters a website address into 
 
 ## 2. Simple Web Request Diagram
 Example flow:
-[User enters website URL]
-        ↓
-[Browser checks DNS]
-        ↓
-[DNS returns IP address]
-        ↓
-[Browser sends HTTP/HTTPS request]
-        ↓
-[Web server receives request]
-        ↓
-[Server sends back HTML, CSS, and JavaScript]
-        ↓
-[Browser renders webpage]
+[User enters website URL] -> [Browser checks DNS] -> [DNS returns IP address] -> [Browser sends HTTP/HTTPS request] -> [Web server receives request] -> [Server sends back HTML, CSS, and JavaScript] -> [Browser renders webpage]
 
 ## 3. What DNS Does
 
