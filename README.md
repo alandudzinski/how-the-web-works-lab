@@ -57,10 +57,28 @@ This response tells the browser the request was successful and sends back HTML c
 | 500 | Internal Server Error |
 
 ## 9. Website Building Blocks
+| Component | Purpose |
+|---|---|
+| HTML | Structure of the webpage |
+| CSS | Styling and layout |
+| JavaScript | Interactivity and behavior |
+| Images | Visual content |
+| Browser | Requests and displays website content |
+| Server | Stores and sends website files |
 
 ## 10. Cybersecurity Takeaways
+Understanding how not only networks, but also how the web works is crucial for cybersecurity because many attacks target websites and web traffic.
+
+Security professionals MUST understand:
+- How DNS can be abused
+- How HTTP requests work
+- How websites send and receive data
+- Why HTTPS matters
+- How attackers look for flaws in weak web applications
+- How defenders monitor web traffic
 
 ## 11. What I Learned
+From this module, I learned that loading a website is not one simple action. It involves many steps, including DNS lookups, browser requests, server responses, and website files being rendered by the browser. The biggest takeaway is that web security starts with understanding rudimentary web communication.
 
 ## References
 - TryHackMe. "Introduction to Cyber Security." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/how-the-web-works)
