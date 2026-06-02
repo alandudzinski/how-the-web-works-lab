@@ -8,6 +8,12 @@ Example flow:
 [User enters website URL] -> [Browser checks DNS] -> [DNS returns IP address] -> [Browser sends HTTP/HTTPS request] -> [Web server receives request] -> [Server sends back HTML, CSS, and JavaScript] -> [Browser renders webpage]
 
 ## 3. What DNS Does
+DNS stands for Domain Name System. DNS converts-human readable domain names into IP addresses.
+
+Example:
+amazon.com -> 98.87.170.74
+
+Without DNS, users would need to remember IP addresses instead of website names.
 
 ## 4. What HTTP Does
 
