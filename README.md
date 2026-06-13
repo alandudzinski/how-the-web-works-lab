@@ -1,7 +1,7 @@
 # How The Web Works Lab: DNS, HTTP and Website Requests
 
 ## 1. Project Overview
-This projects dives into what happens when a user enters a website address into a browser. The goal is to show how DNS, HTTP, browsers, web servers, and website files work together to load and display a webpage.
+This project dives into what happens when a user enters a website address into a browser. The goal is to show how DNS, HTTP, browsers, web servers, and website files work together to load and display a webpage.
 
 ## 2. Simple Web Request Diagram
 Example flow:
@@ -81,7 +81,7 @@ Security professionals MUST understand:
 From this module, I learned that loading a website is not one simple action. It involves many steps, including DNS lookups, browser requests, server responses, and website files being rendered by the browser. The biggest takeaway is that web security starts with understanding rudimentary web communication.
 
 ## References
-- TryHackMe. "Introduction to Cyber Security." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/how-the-web-works)
+- TryHackMe. "How The Web Works." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/how-the-web-works)
 
 ## Disclaimer
 This project is for educational purposes only. It summarizes concepts learned through TryHackMe and does not include walkthrough answers, flags, or private room solutions.
